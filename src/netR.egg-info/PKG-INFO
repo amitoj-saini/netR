@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: netR
+Version: 0.0.1
+Summary: The customizable HTTP web framework for python
+Home-page: https://github.com/Net-Dash/netR
+Author: Net Dash
+Author-email: admin@falcontech.ca
+Project-URL: Bug Tracker, https://github.com/Net-Dash/netR/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+netR is a customizable [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) framework for [python](https://www.python.org/). netR is designed for Python users who want more control and customization. netR is composed from the ground up to ensure speed efficiency.
+
+netR is a new [python](https://www.python.org/) framework that need much more development and [feedback](https://github.com/Net-Dash/netR/issues). netR is currently not recommended for production use until version 1.0.0 is released.
+
+# Installing
+
+```shell
+$ pip install netR
+```
+
+# Docs
+
+- ## Creating a simple HTTP server
+    -  ```python
+       import netR
+
+       ```

@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/netR/__init__.py
+src/netR/netR.py
+src/netR.egg-info/PKG-INFO
+src/netR.egg-info/SOURCES.txt
+src/netR.egg-info/dependency_links.txt
+src/netR.egg-info/top_level.txt
