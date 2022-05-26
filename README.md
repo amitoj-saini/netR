@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # netR
 
 netR is a customizable [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) framework for [python](https://www.python.org/). netR is designed for Python users who want more control and customization. netR is composed from the ground up to ensure speed efficiency.
